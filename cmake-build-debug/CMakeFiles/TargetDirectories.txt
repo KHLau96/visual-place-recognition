@@ -1,0 +1,4 @@
+/home/samlau/CLionProjects/mycode2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/samlau/CLionProjects/mycode2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/samlau/CLionProjects/mycode2/cmake-build-debug/CMakeFiles/openFABMAP.dir
+/home/samlau/CLionProjects/mycode2/cmake-build-debug/CMakeFiles/mycode2.dir

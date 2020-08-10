@@ -1,0 +1,8 @@
+/home/samlau/Downloads/clion-2019.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/samlau/CLionProjects/mycode2
+-- 
+Found OpenMP
+OpenCV version: 3.4.6
+Non-free packages found. Using e.g. SIFT/SURF
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/samlau/CLionProjects/mycode2/cmake-build-debug

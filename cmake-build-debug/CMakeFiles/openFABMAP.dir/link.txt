@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libopenFABMAP.a  CMakeFiles/openFABMAP.dir/src/bowmsctrainer.cpp.o CMakeFiles/openFABMAP.dir/src/chowliutree.cpp.o CMakeFiles/openFABMAP.dir/src/fabmap.cpp.o CMakeFiles/openFABMAP.dir/src/inference.cpp.o CMakeFiles/openFABMAP.dir/src/msckd.cpp.o
+/usr/bin/ranlib lib/libopenFABMAP.a

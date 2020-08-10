@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/fabmap.hpp
+inference.hpp
+../include/inference.hpp
+opencv2/core/core.hpp
+-
+vector
+-
+list
+-
+map
+-
+set
+-
+
+../include/inference.hpp
+opencv2/core/core.hpp
+-
+
+/home/samlau/CLionProjects/mycode2/src/fabmap.cpp
+fabmap.hpp
+/home/samlau/CLionProjects/mycode2/src/fabmap.hpp
+iostream
+-
+
